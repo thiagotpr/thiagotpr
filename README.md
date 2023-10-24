@@ -16,7 +16,7 @@ Desde a minha infância, a tecnologia sempre foi minha grande paixão. No entant
 
 
 ## 📫 Como Entrar em Contato
-- [LinkedIn](https://www.linkedin.com/in/thiago-pereira-reis/))
+- [LinkedIn](https://www.linkedin.com/in/thiago-pereira-reis/)
 - [WhatsApp](https://wa.me/+558186262339)
 - [GitHub](https://github.com/thiagotpr) 
 
